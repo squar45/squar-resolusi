@@ -2,3 +2,5 @@ Rencana squar
 - Html
 - CSS
 - Javascript
+  * ES6
+  * Framework Javascript
