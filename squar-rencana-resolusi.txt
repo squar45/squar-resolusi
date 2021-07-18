@@ -4,4 +4,6 @@ Rencana squar
 - Javascript
   * ES6
   * Framework Javascript
-- struktur dasar
+   ^ angular
+- react
+-php
